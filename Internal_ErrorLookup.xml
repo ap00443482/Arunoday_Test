@@ -1,0 +1,45 @@
+<ErrorDetails>
+    <ServiceDetails>
+		<Error ErrorReason = "Large Payload,exceeds 2MB Limit">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Large payload exceeds 2mb limit.  ID:${id}</Error>
+		<Error ErrorReason = "Invalid MIME Type">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Invalid MIME type	</Error>
+		<Error ErrorReason = "Invalid Method Type">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Invalid Method Type</Error>
+		<Error ErrorReason = "Invalid URI">BT WHOLESALE HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- The requested virtual directory was not found</Error>
+        <Error ErrorReason = "DUNS not received">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Please send the request with DunsID.</Error>
+		<Error ErrorReason = "Contact name not received">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Please send the request with Contact name.</Error>
+        <Error ErrorReason = "DUNS validation fails">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Please resubmit the request with correct DunsID.</Error>
+		<Error ErrorReason = "Contact name validation fails">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Please resubmit the request with correct Contact name.</Error>
+        <Error ErrorReason = "ServiceAccess Denied">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Please resubmit the request with valid DunsID.</Error>
+        <Error ErrorReason = "Back-end URL not available">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request. Back-end URL not available.</Error>
+        <Error ErrorReason = "Failed to establish a backside connection">Failed to establish a backside connection</Error>
+        <Error ErrorReason = "Invalid Request">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Internal Server Error.</Error>
+        <Error ErrorReason = "Root Element not expected">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Unauthorised Request.</Error>
+        <Error ErrorReason = "Read Timeout error">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Read time out</Error>
+        <Error ErrorReason = "Failed to establish a backside connection">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Connect time out</Error>
+
+<Error ErrorReason = "Sent bytes exceeding limit">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Sent bytes exceeding limit</Error>
+<Error ErrorReason = "Transaction Timeout error">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Transaction Timeout error</Error>
+<Error ErrorReason = "Memory allocated is increasing">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Memory allocated to transaction exceeded limit</Error>
+<Error ErrorReason = "Request size exceeds limit">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Request size of transaction exceeded limit</Error>
+<Error ErrorReason = "Backside URL invalid">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Backside URL invalid.</Error>
+<Error ErrorReason = "Operation name is wrong">BT RETAIL HAS EXPERIENCED A PROBLEM WITH YOUR REQUEST SEE BELOW FOR TECHNICAL REASON :- Process Error aborted processing.
+Process Error aborted processing. Operation name sent in the request is wrong.</Error>
+    </ServiceDetails>
+</ErrorDetails>
